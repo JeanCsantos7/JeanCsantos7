@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jean Carlos
+# 👨🏽‍💻 Jean Carlos
 
 **`Desenvolvedor FullStack`**
 
@@ -9,7 +9,7 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Uninter** e bu
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
