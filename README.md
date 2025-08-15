@@ -85,7 +85,9 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Uninter** e bu
 />
 
 
-<br/>
+
+
+---
 
 
 ### 📝 Estudando
@@ -94,7 +96,7 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Uninter** e bu
     align="left" 
     alt="Java"
     title="Java" 
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
@@ -103,7 +105,7 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Uninter** e bu
     align="left" 
     alt="MySQL"
     title="MySQL" 
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
